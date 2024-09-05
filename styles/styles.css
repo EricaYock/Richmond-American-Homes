@@ -154,13 +154,13 @@ button {
   font-style: normal;
   font-weight: 600;
   cursor: pointer;
-  color: #AF272F;
-  background-color: white;
+  color: #white;
+  background-color: #AF272F;
   margin: 16px 0;
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
-  border-radius: 30px;
+  border-radius: 4px;
 }
 
 a.button:hover,
