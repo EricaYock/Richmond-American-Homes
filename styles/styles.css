@@ -154,7 +154,7 @@ button {
   font-style: normal;
   font-weight: 600;
   cursor: pointer;
-  color: var(--background-color);
+  color: #AF272F;
   background-color: #AF272F;
   margin: 16px 0;
   white-space: nowrap;
