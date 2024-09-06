@@ -155,7 +155,7 @@ button {
   font-style: normal;
   font-weight: 600;
   cursor: pointer;
-  color: #white;
+  color: #black;
   background-color: #AF272F;
   margin: 16px 0;
   white-space: nowrap;
@@ -180,7 +180,7 @@ button:disabled:hover {
 
 a.button.secondary,
 button.secondary {
-  background-color: unset;
+  background-color: #25282A;
   border: 2px solid currentcolor;
   color: var(--text-color);
 }
