@@ -182,7 +182,7 @@ a.button.secondary,
 button.secondary {
   background-color: #25282A;
   border: 2px solid currentcolor;
-  color: var(--text-color);
+  color: white;
 }
 
 main img {
